@@ -54,4 +54,17 @@ Project Organization
 
 --------
 
+**Сроки выполнения и задачи**:
+
+**1 этап (до 4 ноября)**:
+
+1. Выбрать метрику
+
+2. Применить SVM для задачи классификации с различными вариантами ядер
+
+3. Применить различные варианты композиций алгоритмов
+
+4. Сравнить выбранные методы по метрикам и быстродействию
+
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
